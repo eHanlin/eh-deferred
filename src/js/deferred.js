@@ -1,5 +1,5 @@
 
-if ( !EH ) {
+if ( typeof EH !== "undefined" ) {
   var EH = {};
 }
 
