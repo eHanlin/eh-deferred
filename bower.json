@@ -1,0 +1,14 @@
+{
+  "name": "eh-deferred",
+  "version": "0.0.1",
+  "authors": [
+    "Sparrow.jang <sparrow.jang@gmail.com>"
+  ],
+  "description": "This is light deferred.",
+  "dependencies": {},
+  "keywords": [
+    "deferred"
+  ],
+  "devDependencies": {
+  }
+}
