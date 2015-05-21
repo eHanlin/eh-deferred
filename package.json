@@ -1,7 +1,7 @@
 {
   "name": "eh-deferred",
-  "version": "0.0.2",
-  "main": "dist/deferred.js",
+  "version": "0.0.3",
+  "main": "src/js/deferred.js",
   "description": "This is light deferred.",
   "devDependencies": {
     "del": "^1.1.1",
